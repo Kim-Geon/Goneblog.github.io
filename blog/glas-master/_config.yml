@@ -14,7 +14,7 @@ description: > # "
   your description.....
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://goneblog.github.io/" # the base hostname & protocol for your site
+url: "https://Kim-Geon.github.io/" # the base hostname & protocol for your site
 
 #These settings might be able to go?
 author: Lucas Gatsas @ spacedig.ch 
