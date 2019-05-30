@@ -17,7 +17,7 @@ Visual Studio Code를 이용해 Python을 사용하기 위해선 먼저 Visual S
 
 <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> 주소를 클릭하여 웹사이트에 접속합니다.
 
-<img src="{{ site.baseurl }}/img/fantasy.jpg" alt="" class="author-avatar" />
+<img src="{{ site.baseurl }}/img/code/download_code.png" alt="" class="author-avatar" />
 
 Download를 클릭하여 다운 후 설치를 합니다.
 
