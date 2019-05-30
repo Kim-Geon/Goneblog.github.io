@@ -21,7 +21,7 @@ Visual Studio Code 설치
 
 Download를 클릭하여 다운 후 설치 합니다.
 
-<img src="{{ site.baseurl }}/img/code/download_code_1.png" style="width:70%" alt="image" align = "center">
+<img src="{{ site.baseurl }}/img/code/download_code_1.png" style="width:70%" alt="image">
 
 <img src="{{ site.baseurl }}/img/code/download_code_2.png" style="width:70%" alt="image">
 
@@ -30,6 +30,7 @@ Download를 클릭하여 다운 후 설치 합니다.
 <img src="{{ site.baseurl }}/img/code/download_code_4.png" style="width:70%" alt="image">
 
 <img src="{{ site.baseurl }}/img/code/download_code_5.png" style="width:70%" alt="image">
+
 PATH에 추가 선택 후 다음(N)
 
 <img src="{{ site.baseurl }}/img/code/download_code_6.png" style="width:70%" alt="image">
