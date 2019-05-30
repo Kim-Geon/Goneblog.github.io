@@ -13,39 +13,44 @@ organiser: "Lucas Gatsas"
 ---
 <h2 class="section-heading"> Visual Studio Code Python 설치</h2>
 
-Visual Studio Code를 이용해 Python을 사용하기 위해선 먼저 Visual Studio Code를 설치해야 합니다.
+Visual Studio Code 설치
 
-<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> 주소를 클릭하여 웹사이트에 접속합니다.
+<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> 에 접속합니다.
 
 <img src="{{ site.baseurl }}/img/code/download_code.png" style="width:100%" alt="image">
 
-Download를 클릭하여 다운 후 설치를 합니다.
+Download를 클릭하여 다운 후 설치 합니다.
 
+<img src="{{ site.baseurl }}/img/code/download_code_1.png" style="width:100%" alt="image">
+
+<img src="{{ site.baseurl }}/img/code/download_code_2.png" style="width:100%" alt="image">
+
+<img src="{{ site.baseurl }}/img/code/download_code_3.png" style="width:100%" alt="image">
+
+<img src="{{ site.baseurl }}/img/code/download_code_4.png" style="width:100%" alt="image">
+
+<img src="{{ site.baseurl }}/img/code/download_code_5.png" style="width:100%" alt="image">
+PATH에 추가 선택 후 다음(N)
+
+<img src="{{ site.baseurl }}/img/code/download_code_6.png" style="width:100%" alt="image">
+
+<img src="{{ site.baseurl }}/img/code/download_code_7.png" style="width:100%" alt="image">
+
+Visual Studio Code 설치 완료.
+
+Python 설치
+
+<a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> 에 접속합니다.
+
+<img src="{{ site.baseurl }}/img/code/download_python.png" style="width:100%" alt="image">
+
+Download를 클릭하여 다운 후 설치 합니다.
 
 Thrid: Create a<code>cli.js</code> file and inpust the following Code below
 
 <div style="overflow:auto; height=200; width=100%;">
 <pre style="color:black;background:white;"><pre>
 
-// Make sure that no matter where we call the command from,
-// we lift the app that lives in the same directory as this script
-process.chdir(__dirname);
-// Get an instance of Sails
-var sails = require('sails');
-// Lift the Sails app in the current working directory
-       console.log("Start The GITLIST App");
-        console.log("To see your app. visit:");
-        console.log(clc.xterm(39).bgBlack.underline('http://127..0.0.1'));
-        console.log("To Clone the Repository and Open Source:");
-        console.log(clc.xterm(39).bgBlack.underline('see: http://www.github.com/spaceg/github.io'));
-        console.log("Bash The Universe by Hello World");
-        console.log("©.2016 by Gitlist OS");
-
-        console.log("press c to stop the app");
-
-
-sails.lift({log:{noShip: true}});
-
-/*  sails.lift(rc('sails'));*/
+print("Hello World!!")
 
 </pre></pre></div>
