@@ -1,7 +1,7 @@
 ---
 layout: about
 navigation_title: About
-title: About Glas
+title: About Gones
 permalink: /about/
 ---
 
