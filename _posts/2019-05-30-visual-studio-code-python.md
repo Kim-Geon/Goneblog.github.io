@@ -13,11 +13,13 @@ organiser: "Lucas Gatsas"
 ---
 <h2 class="section-heading"> Visual Studio Code Python 설치</h2>
 
+Visual Studio Code를 이용해 Python을 사용하기 위해선 먼저 Visual Studio Code를 설치해야 합니다.
 
-First: Make sure your App is running on Localhost <code>port:80</code>
+<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> 주소를 클릭하여 웹사이트에 접속합니다.
 
+<img src="{{ site.baseurl }}/img/fantasy.jpg" alt="" class="author-avatar" />
 
-Seconds: Clone Tilda : <a href="https://www.npmjs.com/package/tilda">Tilda</a>
+Download를 클릭하여 다운 후 설치를 합니다.
 
 
 Thrid: Create a<code>cli.js</code> file and inpust the following Code below
