@@ -47,7 +47,7 @@ Visual Studio Code 설치 완료.
 
 Download를 클릭하여 다운 후 설치 합니다.
 
-<img src="{{ site.baseurl }}/img/code/download_python_1.png" style="width:100%" alt="image">
+<img src="{{ site.baseurl }}/img/code/download_python_1.png" style="width:70%" alt="image">
 
 Customize installation 클릭
 
