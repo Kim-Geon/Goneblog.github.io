@@ -63,17 +63,17 @@ Add Python to environment variables를 체크 해주시면 환경변수를 자�
 
 Visual Studio Code를 실행시켜
 
-<img src="{{ site.baseurl }}/img/code/python_setting.png" style="width:100%" alt="image">
+<img src="{{ site.baseurl }}/img/code/python_setting.PNG" style="width:100%" alt="image">
 
 왼쪽 하단의 버튼을 클릭하여 Pyton을 install합니다.
 
 <img src="{{ site.baseurl }}/img/code/download_code_exe_1.png" style="width:100%" alt="image">
 
-<img src="{{ site.baseurl }}/img/code/download_code_exe_2.png" style="width:100%" alt="image">
+<img src="{{ site.baseurl }}/img/code/download_code_exe_2.PNG" style="width:100%" alt="image">
 
 Python 폴더를 생성하여 Open 시켜 file_name.py를 생성합니다.
 
-<img src="{{ site.baseurl }}/img/code/download_code_exe_3.png" style="width:100%" alt="image">
+<img src="{{ site.baseurl }}/img/code/download_code_exe_3.PNG" style="width:100%" alt="image">
 
 (오른쪽 하단부에 필요한 프로그램이 있을 시 install 할 수 있는 창이 뜸 install을 눌러 설치,,)
 
